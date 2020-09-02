@@ -27,7 +27,7 @@ Syntax highlighted code block
 :D
 ### MIM
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mim-pc/HelloWorld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Viết cl gì vào cho đỡ xấu đi các bạn.
 
 ### Support or Contact
 
